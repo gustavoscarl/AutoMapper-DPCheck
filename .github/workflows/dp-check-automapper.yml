@@ -1,6 +1,7 @@
 name: Dependency Check
 
 on:
+  workflow_dispatch:
   push:
     paths:
       - "src/**/*.csproj"
