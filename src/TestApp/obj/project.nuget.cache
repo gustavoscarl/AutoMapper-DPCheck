@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "Om4bPZPswxUxIeLv6gjSKpS6j6p7zqnHde1pHHR4YBwZYeu7emgfbfg7bGeCh6BLALoU5lsymAcsJvek+niCcw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gustavo\\source\\repos\\AutoMapper-DPCheck\\src\\TestApp\\TestApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gustavo\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\Gustavo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Gustavo\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\Gustavo\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\Gustavo\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "GZQqMK2x0fTj2QyskTzJNhtNt7f9//lYI2+m9UVgYi8te/tN2uBJS/BqYLQC+m5TaM2vKUCGtpq0nYMTDWpi+w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gustavo\\source\\repos\\AutoMapper-DPCheck\\src\\AutoMapper\\AutoMapper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gustavo\\.nuget\\packages\\microsoft.build.tasks.git\\8.0.0\\microsoft.build.tasks.git.8.0.0.nupkg.sha512",
+    "C:\\Users\\Gustavo\\.nuget\\packages\\microsoft.dotnet.apicompat\\7.0.0-beta.22074.1\\microsoft.dotnet.apicompat.7.0.0-beta.22074.1.nupkg.sha512",
+    "C:\\Users\\Gustavo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Gustavo\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\Gustavo\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\Gustavo\\.nuget\\packages\\microsoft.sourcelink.common\\8.0.0\\microsoft.sourcelink.common.8.0.0.nupkg.sha512",
+    "C:\\Users\\Gustavo\\.nuget\\packages\\microsoft.sourcelink.github\\8.0.0\\microsoft.sourcelink.github.8.0.0.nupkg.sha512",
+    "C:\\Users\\Gustavo\\.nuget\\packages\\minver\\4.3.0\\minver.4.3.0.nupkg.sha512",
+    "C:\\Users\\Gustavo\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
